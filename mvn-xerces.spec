@@ -6,7 +6,7 @@
 #
 Name     : mvn-xerces
 Version  : 1.4.4
-Release  : 1
+Release  : 2
 URL      : http://archive.apache.org/dist/xml/xerces-j/Xerces-J-src.1.4.4.tar.gz
 Source0  : http://archive.apache.org/dist/xml/xerces-j/Xerces-J-src.1.4.4.tar.gz
 Source1  : https://repo1.maven.org/maven2/xerces/xerces/1.4.4/xerces-1.4.4.jar
